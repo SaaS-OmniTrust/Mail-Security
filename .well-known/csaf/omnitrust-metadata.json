@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "contact": [
+    {
+      "name": "Security Team",
+      "email": "mailto:dns@omnitrust.network",
+      "phone": "+27-76-452-3437"
+    }
+  ],
+  "description": "Security advisory metadata for OmniTrust systems",
+  "security_classifications": [
+    "high"
+  ],
+  "policy_uri": "https://security.omnitrust.netwrok/security-policy"
+}
