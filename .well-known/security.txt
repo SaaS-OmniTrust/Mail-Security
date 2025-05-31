@@ -1,0 +1,11 @@
+# Contact information for security issues related to your domain
+Contact: mailto:dns@omnitrust.network
+Expires: 2030-02-10T15:17:00.000Z
+Encryption: https://mta-sts.omnitrust.network/.well-known/csaf/pgp-key.txt
+Acknowledgments: https://mta-sts.omnitrust.network/thanks.html
+Preferred-Languages: en, en-US
+
+# Optional fields
+Policy: https://mta-sts.omnitrust.network/security-policy.html
+Canonical: https://mta-sts.omnitrust.network/.well-known/security.txt
+CSAF: https://mta-sts.omnitrust.network/.well-known/csaf/waddles-metadata.json
